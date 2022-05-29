@@ -4,7 +4,7 @@
 ## What is Exploratory Data Analysis(EDA)?
 **EDA** means trying to understand the given data much better, so that we can make some sense out of it.
 
-![Cover](assets/cover.jpg)
+![Cover](assets/pic.jpg)
 
 In statistics, exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. A statistical model can be used or not, but primarily EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task :wink:.
 You can find a more formal definition on [Wikipedia](https://en.wikipedia.org/wiki/Exploratory_data_analysis).
