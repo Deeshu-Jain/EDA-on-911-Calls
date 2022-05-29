@@ -15,15 +15,15 @@ You can find a more formal definition on [Wikipedia](https://en.wikipedia.org/wi
 ### Dataset Description
 This file contains **calls to 911 (emergency calls)** in Montgomery County Pennsylvania. The data contains the following fields:
 
-- lat : String variable, Latitude
-- lng: String variable, Longitude
-- desc: String variable, Description of the Emergency Call
-- zip: String variable, Zipcode
-- title: String variable, Title
-- timeStamp: String variable, YYYY-MM-DD HH:MM:SS
-- twp: String variable, Township
-- addr: String variable, Address
-- e: String variable, Dummy variable (always 1)
+- *lat* : String variable, Latitude
+- *lng*: String variable, Longitude
+- *desc*: String variable, Description of the Emergency Call
+- *zip*: String variable, Zipcode
+- *title*: String variable, Title
+- *timeStamp*: String variable, YYYY-MM-DD HH:MM:SS
+- *twp*: String variable, Township
+- *addr*: String variable, Address
+- *e*: String variable, Dummy variable (always 1)
 
 The dataset is available publicly on *Kaggle* Website. You can access or download the dataset from [here](https://www.kaggle.com/datasets/mchirico/montcoalert).
 
@@ -55,7 +55,7 @@ The dataset is available publicly on *Kaggle* Website. You can access or downloa
 
 You can install Jupyter Notebook Environment from [here](https://jupyter.org/install) or through the [Anaconda Distribution](https://www.anaconda.com/products/distribution) or, can even use any IDE you like.
 
-You can access the **Project Notebook** from [here](https://github.com/Deeshu-Jain/US_ACCIDENTS_2016-2021_EDA/blob/main/EDA%20on%20US%20Accidents%20(2016%20-%202021).ipynb).
+You can access the **Project Notebook** from [here](https://github.com/Deeshu-Jain/EDA-on-911-Calls/blob/main/EDA%20on%20911%20Calls.ipynb).
 
 
 ## Code Snippet
