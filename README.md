@@ -16,20 +16,20 @@ You can find a more formal definition on [Wikipedia](https://en.wikipedia.org/wi
 This file contains **calls to 911 (emergency calls)** in Montgomery County Pennsylvania. The data contains the following fields:
 
 - *lat* : String variable, Latitude
-- *lng*: String variable, Longitude
-- *desc*: String variable, Description of the Emergency Call
-- *zip*: String variable, Zipcode
-- *title*: String variable, Title
-- *timeStamp*: String variable, YYYY-MM-DD HH:MM:SS
-- *twp*: String variable, Township
-- *addr*: String variable, Address
-- *e*: String variable, Dummy variable (always 1)
+- *lng* : String variable, Longitude
+- *desc* : String variable, Description of the Emergency Call
+- *zip* : String variable, Zipcode
+- *title* : String variable, Title
+- *timeStamp* : String variable, YYYY-MM-DD HH:MM:SS
+- *twp* : String variable, Township
+- *addr* : String variable, Address
+- *e* : String variable, Dummy variable (always 1)
 
 The dataset is available publicly on *Kaggle* Website. You can access or download the dataset from [here](https://www.kaggle.com/datasets/mchirico/montcoalert).
 
 
 ## Content
-**US Accidents(2016-2021) Dataset - EDA:**  Exploratory Data Analysis of the accidents occured in differents streets, cities, states of US. The weather conditions at the most of the time of the accidents, the severity, time analysis all of these things are analysed and visualized in this notebook. Some important insights are also derived based on the data visualization.
+**911 Calls Dataset - EDA:**  Exploratory Data Analysis of the several 911 calls placed in different areas and, towns in Montgomery County, Pennsylvania. The different reasons behind the 911 calls, at which places, what time(month, year) they are observed, all of these things are analysed and visualized in this notebook. Some important insights are also derived based on the data visualization.
 
 
 ## Instructions for Running Python Notebooks Locally
